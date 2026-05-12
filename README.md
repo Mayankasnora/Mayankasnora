@@ -13,16 +13,150 @@
   </a>
 </p>
 
-
 ---
 
 ## About Me
 
-- Mathematics student focused on probability, optimization, and intelligent systems
-- Interested in quantitative research, stochastic processes, and decision theory
-- Building AI agent architectures using LangGraph and reflection-based workflows
-- Exploring Monte Carlo methods, optimal stopping problems, and probabilistic simulations
-- Competitive programming enthusiast learning advanced algorithms and systems thinking
+<table>
+<tr>
+<td>
+
+🎓 Mathematics student focused on probability, optimization, and intelligent systems
+
+📈 Interested in quantitative research, stochastic processes, and decision theory
+
+🤖 Building reflection-based AI agents using LangGraph workflows
+
+🧠 Exploring Monte Carlo methods, optimal stopping, and probabilistic simulations
+
+💻 Competitive programming enthusiast developing algorithmic thinking
+
+</td>
+</tr>
+</table>
 
 ---
+## Current Focus
+
+| Area | Focus |
+|---|---|
+| Mathematics | Convex Optimization, Martingales, Stochastic Processes |
+| AI Systems | Reflection-based agents using LangGraph |
+| Algorithms | Competitive Programming & Problem Solving |
+| Simulations | Monte Carlo Methods & Optimal Stopping |
+
+---
+
+## Research / Quant Interests
+
+- Optimal Stopping Theory
+- Stochastic Processes and Martingales
+- Monte Carlo Methods
+- Bayesian Inference
+- Convex Optimization
+- Reinforcement Learning
+- Probabilistic Decision Systems
+- Market Microstructure and Quantitative Finance
+
+---
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Probabilistic Strategy Engine
+Stochastic decision framework using Bayesian reasoning and uncertainty-aware simulations.
+
+</td>
+
+<td width="50%">
+
+### 📈 Optimal Stopping Simulation
+Monte Carlo engine exploring stopping-time optimization and secretary problems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 EduTutor
+Reflection-loop tutoring agent built using LangGraph adaptive workflows.
+
+</td>
+
+<td width="50%">
+
+### 🗳️ Election Clustering Analysis
+Unsupervised learning pipeline for regional voting behavior analysis.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Competitive Programming
+
+- Solving algorithmic and data structure problems across Codeforces and LeetCode
+- Interested in graph algorithms, dynamic programming, greedy methods, and probabilistic techniques
+- Exploring competitive programming as a tool for developing mathematical intuition and systems thinking
+- Currently focused on improving problem-solving speed, implementation accuracy, and algorithmic depth
+
+---
+## Skills
+
+### Mathematics
+<p align="center">
+  
+![Probability](https://img.shields.io/badge/Probability-0F172A?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-0F172A?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-0F172A?style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-0F172A?style=for-the-badge)
+
+</p>
+
+### Programming
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</p>
+
+### AI / Systems
+<p align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</p>
+
+### Scientific Computing
+<p align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</p>
+
+---
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayankasnora&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankasnora&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayankasnora/Mayankasnora/output/github-contribution-grid-snake.svg" />
+</p>
 
