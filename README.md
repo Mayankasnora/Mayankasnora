@@ -13,3 +13,16 @@
   </a>
 </p>
 
+
+---
+
+## About Me
+
+- Mathematics student focused on probability, optimization, and intelligent systems
+- Interested in quantitative research, stochastic processes, and decision theory
+- Building AI agent architectures using LangGraph and reflection-based workflows
+- Exploring Monte Carlo methods, optimal stopping problems, and probabilistic simulations
+- Competitive programming enthusiast learning advanced algorithms and systems thinking
+
+---
+
