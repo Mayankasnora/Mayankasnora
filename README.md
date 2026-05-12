@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Mathematics</b> • <b>Probability</b> • <b>Optimization</b> • <b>AI Systems</b> • <b>Competitive Programming</b>
+  <img src="banner.svg" width="900" alt="Mayank — Mathematics · Probability · Optimization · AI Systems"/>
 </p>
 
 <p align="center">
@@ -148,14 +148,11 @@ Unsupervised learning pipeline for regional voting behavior analysis.
 
 ![LangChain](https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0891B2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
 
 ### 📊 Scientific Computing
 
 ![NumPy](https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
