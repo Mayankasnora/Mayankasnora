@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="banner.svg" width="900" alt="Mayank banner"/>
+  <img src="https://raw.githubusercontent.com/Mayankasnora/Mayankasnora/main/banner.svg" width="900" alt="Mayank banner"/>
 </p>
 
 <p align="center">
