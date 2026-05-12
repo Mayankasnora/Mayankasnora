@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="banner.svg" width="900" alt="Mayank — Mathematics · Probability · Optimization · AI Systems"/>
+  <img src="banner.svg" width="900" alt="Mayank banner"/>
 </p>
 
 <p align="center">
