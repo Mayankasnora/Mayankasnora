@@ -156,8 +156,9 @@ Unsupervised learning pipeline for regional voting behavior analysis.
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mayankasnora/Mayankasnora/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mayankasnora/Mayankasnora/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 
 
