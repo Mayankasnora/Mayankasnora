@@ -147,9 +147,7 @@ Unsupervised learning pipeline for regional voting behavior analysis.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mayankasnora&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankasnora&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img src="https://streak-stats.demolab.com?user=Mayankasnora&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
