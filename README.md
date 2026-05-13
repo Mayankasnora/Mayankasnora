@@ -4,6 +4,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayankasnora/Mayankasnora/main/banner.svg" width="900" alt="Mayank banner"/>
 </p>
+<p align="center">
+  <a href="https://github.com/Mayankasnora">
+    <img src="https://komarev.com/ghpvc/?username=Mayankasnora&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Quantitative%20Research-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interest-Stochastic%20Systems-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Building-AI%20Agents-EC4899?style=flat-square"/>
+</p>
 
 ---
 # 🧠 About Me
